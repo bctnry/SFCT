@@ -23,7 +23,7 @@ Tactic 策略
 neutral element 单位元
 identity element 单位元
 apply 应用
-inversion 翻转
+inversion 反演
 Hypothesis 前提
 destruct 销毁
 Proposition 命题
@@ -43,5 +43,6 @@ Quantification 量化
 Exists 存在
 Implication 蕴含
 Iff 当且仅当
-Falsehood 矛盾式
+Falsehood 谬误
 Truth 真值
+Contradiction 矛盾式
